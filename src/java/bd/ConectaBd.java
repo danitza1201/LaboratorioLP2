@@ -18,7 +18,7 @@ public class ConectaBd {
         }
         return cn;
     }
-    private final String url = "jdbc:mysql://localhost:3306/buzon";
+    private final String url = "jdbc:mysql://localhost:8080/buzon";
     private final String driver = "com.mysql.jdbc.Driver";
     private final String user = "root";
     private final String password = "123";

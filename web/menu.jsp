@@ -23,7 +23,7 @@
                     <td><a href="DatosArea.jsp">Datos de Area</a></td>
                 </tr>
                 <tr>
-                    <td><a href="">Datos de Rol</a></td>
+                    <td><a href="Datosrol.jsp">Datos de Rol</a></td>
                     
                 </tr>
                 <tr>
